@@ -1,0 +1,6 @@
+This is line 1
+This is line 2 with a number: 42
+This is line 3
+This is line 4 appended
+This is line 5 appended with another number: 100
+This is line 6 appended
